@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "5650889-5")(type "Legacy")(uri "C:/Station_de_test/Kicad/Import_library/Din_5650889/5650889-5.lib")(options "")(descr ""))
+  (lib (name "9001-11961C00A")(type "Legacy")(uri "C:/Station_de_test/Kicad/Import_library/9001-11961/9001-11961C00A.lib")(options "")(descr ""))
+  (lib (name "1146770000")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/4pin_5.08mm/1146770000.kicad_sym")(options "")(descr ""))
+  (lib (name "691322310006")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/6pin_3.81mm/691322310006.kicad_sym")(options "")(descr ""))
+  (lib (name "7760")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/SnapEDA Library/7760.kicad_sym")(options "")(descr ""))
+  (lib (name "4x3.81mm")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/4pin_3.81mm/2023-01-04_17-19-45.kicad_sym")(options "")(descr ""))
+  (lib (name "L77DFE09S1AMN")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/SnapEDA Library/L77DFE09S1AMN.kicad_sym")(options "")(descr ""))
+  (lib (name "TXS0108")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/TXS0108/TXS0108.kicad_sym")(options "")(descr ""))
+)

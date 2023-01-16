@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 6f39e325-a1a5-4e3b-8076-cb94d21f9750)
+
+  (paper "A")
+
+  (title_block
+    (title "Interconnect IO Board")
+    (date "2022-05-02")
+    (rev "0")
+  )
+
+  (lib_symbols
+  )
+
+)
