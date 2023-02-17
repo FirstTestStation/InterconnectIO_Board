@@ -690,7 +690,7 @@
     (uuid 223951ac-ba9b-47d8-968b-12a1432f0f41)
   )
 
-  (wire (pts (xy 91.44 52.07) (xy 95.25 52.07))
+  (wire (pts (xy 91.44 52.07) (xy 101.6 52.07))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 252791b2-3f84-4ec3-a14d-7ad4e1ad9317)
   )
