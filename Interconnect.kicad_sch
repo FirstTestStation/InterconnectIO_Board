@@ -732,15 +732,6 @@
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/670baa7e-feb3-43e8-bb7a-2a8bac6275aa"
       (reference "#PWR020") (unit 1) (value "VCC") (footprint "")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/186294b3-1a0b-4a53-80af-3465587903d0"
-      (reference "#PWR021") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/e787b887-f7cd-4515-bd81-9ce59ef56f3d"
-      (reference "#PWR022") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/e4e96d18-b041-4386-8c23-7023df98c65d"
-      (reference "#PWR023") (unit 1) (value "GND") (footprint "")
-    )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/d6c70f4d-5840-4eb1-b073-60271a5d1a7c"
       (reference "#PWR024") (unit 1) (value "GND") (footprint "")
     )
@@ -749,9 +740,6 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/d0d61734-42b9-4027-8ee9-70f73f18a9f5"
       (reference "#PWR026") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/cdcc916a-f7f2-4817-b06d-ecad08edcd0f"
-      (reference "#PWR027") (unit 1) (value "GND") (footprint "")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/f7b97357-8140-431b-8a7d-3e1f79eebab4"
       (reference "#PWR028") (unit 1) (value "GND") (footprint "")
@@ -776,9 +764,6 @@
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/a83fdce6-9b11-4755-8135-ba1a9be3e26d"
       (reference "#PWR035") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/a51d624d-32ce-44bd-ba98-3fb41369d26d"
-      (reference "#PWR036") (unit 1) (value "VCC") (footprint "")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/7f43b3dd-af3e-4d14-9096-d9a6b019e9e9"
       (reference "#PWR037") (unit 1) (value "VCC") (footprint "")
@@ -1026,9 +1011,6 @@
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/07058d07-51f9-4549-ab64-2d64f8002bb0"
       (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
     )
-    (path "/93992f79-5c5d-4858-8a7c-a8f76c6827a1/360bbf72-c276-4d46-8f71-382dca74974f"
-      (reference "#PWR0119") (unit 1) (value "VCC") (footprint "")
-    )
     (path "/203eff38-5c86-45d7-8b0e-36659897a8dd/546c8ee8-87ff-4a33-aac4-4b5fe9bb4808"
       (reference "#PWR0120") (unit 1) (value "VCC") (footprint "")
     )
@@ -1038,29 +1020,17 @@
     (path "/203eff38-5c86-45d7-8b0e-36659897a8dd/e9cb55fb-e2c6-4eb6-9af1-5a17ec4d5605"
       (reference "#PWR0122") (unit 1) (value "VCC") (footprint "")
     )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/8ecc27da-66b9-40ae-87d5-ff825cb0691e"
-      (reference "#PWR0123") (unit 1) (value "VCC") (footprint "")
+    (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/e459bdfd-13b8-4137-8c23-e2649853ea8d"
+      (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
     )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/039ae948-cb43-44af-94e3-7fbce7e959df"
-      (reference "#PWR0124") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/f54120ee-2da3-4ab6-85f6-0bd83066b2eb"
-      (reference "#PWR0125") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/4963c95d-169d-4b97-b36c-c196911bbad4"
-      (reference "#PWR0126") (unit 1) (value "VCC") (footprint "")
+    (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/dfa26a5a-c224-4853-8dc6-3bbaf31da016"
+      (reference "#PWR0124") (unit 1) (value "GND") (footprint "")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/d0d206d0-1071-4e84-9f48-7d60c419689f"
       (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/84a9fe35-074d-445b-bb4b-d4a3a5cfb289"
       (reference "#PWR0128") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/90bd46e8-4c98-4505-9953-a26726742480"
-      (reference "#PWR0129") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/f5059524-f7c0-4f09-9435-f9a459238815"
-      (reference "#PWR0130") (unit 1) (value "VCC") (footprint "")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/1414cec1-2238-40ea-b508-2a640a993a4f"
       (reference "#PWR0131") (unit 1) (value "GND") (footprint "")
@@ -1074,11 +1044,8 @@
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/a6a9334f-81b8-48ca-863f-8cfd9114a482"
       (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
     )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/856c0c2f-3393-4d39-b5ad-68acde16c916"
-      (reference "#PWR0135") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/e8f2d97a-e8af-4301-8491-15d2f0a382dd"
-      (reference "#PWR0136") (unit 1) (value "VCC") (footprint "")
+    (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/d533a38d-1e46-4264-8c74-2a11303b9c35"
+      (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/b4ec097d-a068-407f-9a49-9377d6585c91"
       (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
@@ -1115,6 +1082,15 @@
     )
     (path "/93992f79-5c5d-4858-8a7c-a8f76c6827a1/bebbe120-88de-4934-942f-8955aed73c93"
       (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/8f563a01-672d-4b40-8d81-210577bc6428"
+      (reference "#PWR0150") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/c0384764-d909-4ac1-9af6-6b420e406dd1"
+      (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/a9d96dae-29be-4a5f-93a1-1db7468b9199"
+      (reference "#PWR0152") (unit 1) (value "GND") (footprint "")
     )
     (path "/93992f79-5c5d-4858-8a7c-a8f76c6827a1/b4894cb2-4520-4888-aa6b-a2a0af793b55"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6")
@@ -1169,6 +1145,15 @@
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/291baa6c-c658-403d-a9b3-489af949010b"
       (reference "C17") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
+    )
+    (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/a63ebb35-1163-4d90-bf69-613eb0301590"
+      (reference "C18") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
+    )
+    (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/6db88353-700e-4c2b-9bef-054536917eaf"
+      (reference "C19") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
+    )
+    (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/017ee3e3-4725-4a11-a634-00e72ef6a177"
+      (reference "C20") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/51192cc7-f448-41b4-8a23-72de1b8f5875"
       (reference "D19") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
@@ -1225,58 +1210,58 @@
       (reference "J4") (unit 1) (value "7760") (footprint "SnapEDA Library:7760")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/ffde4aa7-aa7c-477f-ae3a-0739c977c729"
-      (reference "J5") (unit 1) (value "10x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+      (reference "J5") (unit 1) (value "10x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/8c5010f0-cc29-46eb-b89a-65332000e0ac"
-      (reference "J6") (unit 1) (value "10x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+      (reference "J6") (unit 1) (value "10x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/5d6fae52-d824-423e-b271-24631000b73b"
-      (reference "J7") (unit 1) (value "10x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+      (reference "J7") (unit 1) (value "10x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/bbc8e259-35eb-42c9-ab05-ad4ca19b07be"
-      (reference "J8") (unit 1) (value "10x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+      (reference "J8") (unit 1) (value "10x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/53d64420-12ab-46f7-b3da-e3db2e444894"
-      (reference "J9") (unit 1) (value "10x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+      (reference "J9") (unit 1) (value "10x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/7dc20fdb-a7f4-46f7-86e2-f4d3933b6d2f"
-      (reference "J10") (unit 1) (value "10x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+      (reference "J10") (unit 1) (value "10x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/c07cd603-fd7b-4adb-8fb1-7c096fa97633"
-      (reference "J11") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J11") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/1a8a56ed-c52d-4fa1-bf10-6537832243c5"
-      (reference "J12") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J12") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/c0787945-1573-4275-b5c1-e5931b22740f"
-      (reference "J13") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J13") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/dc70eb36-a3c1-4605-8fc9-69b00f02d6f5"
-      (reference "J14") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J14") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/b7fe01d5-62fb-47f9-9ec5-3eaac6ceb2ff"
-      (reference "J15") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J15") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/ac9238bc-4bd4-4d73-a735-c333c1508f44"
-      (reference "J16") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J16") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/fac921cc-0313-4df4-94cd-adbc33818c0c"
       (reference "J17") (unit 1) (value "4 Pins 5.08mm") (footprint "4pin_5:1146770000")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/e8717c1f-a521-4793-926b-01e66baebee2"
-      (reference "J18") (unit 1) (value "OSCILLOSCOPE") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J18") (unit 1) (value "OSCILLOSCOPE_CH1") (footprint "BNC:TE_1-1337542-0")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/95759453-17a9-4416-86e2-16218961a497"
-      (reference "J19") (unit 1) (value "OSCILLOSCOPE") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J19") (unit 1) (value "OSCILLOSCOPE_CH2") (footprint "BNC:TE_1-1337542-0")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/de7bbd71-4d2e-41c0-97db-7c678ceda546"
       (reference "J20") (unit 1) (value "6 pins 3.81mm") (footprint "6pin_3:SHDRRA6W80P0X381_1X6_2405X920X700P")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/362657a6-978d-4bfd-a946-a436e75143c9"
-      (reference "J21") (unit 1) (value "AWG") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J21") (unit 1) (value "AWG") (footprint "BNC:TE_1-1337542-0")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/aefde5da-e20a-424b-91c2-d1979404cf33"
-      (reference "J22") (unit 1) (value "SPARE") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J22") (unit 1) (value "SPARE") (footprint "BNC:TE_1-1337542-0")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/ce3fd49f-13f3-4c05-829f-81653eb7d5f5"
       (reference "J23") (unit 1) (value "691322310004") (footprint "4pins_3:691322310004")
@@ -1297,19 +1282,19 @@
       (reference "J28") (unit 1) (value "DB9_Female_RA") (footprint "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/90816863-031b-4c6b-a052-305afbc11458"
-      (reference "J29") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J29") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/30aa3a09-6fa4-49e8-b9ad-a13c8c95cb21"
-      (reference "J30") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J30") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/d5542fbf-352b-41e9-a7bd-974b285b7dc8"
-      (reference "J31") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J31") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/8e56a0b1-3aab-4b95-9dff-6598d047ad13"
-      (reference "J32") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J32") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/fe9cc67e-b317-498a-b21e-72e9b1d41bcc"
-      (reference "J33") (unit 1) (value "6x2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J33") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/465ac724-65d1-4967-b6e4-103cf652fd5c"
       (reference "K1") (unit 1) (value "TQ2-5") (footprint "Relay_THT:Relay_DPDT_FRT5")
@@ -1602,8 +1587,8 @@
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/aad22d83-cbd8-494a-8305-44cce97aa4ea"
       (reference "NT56") (unit 1) (value "JA3") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/ce33c8e9-fbec-4413-8289-9bccbe9dc585"
-      (reference "NT57") (unit 1) (value "JB20") (footprint "NetTie:NetTie-2_Front1.0mm")
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/f73073fd-e8e8-4ebd-b8fd-86716797b23b"
+      (reference "NT57") (unit 1) (value "JA20") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/cb134bb3-f79b-419c-b095-bb062dcfd1dc"
       (reference "NT58") (unit 1) (value "K13_H") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -1797,8 +1782,8 @@
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/df41424f-5f86-44d7-84eb-b6b25ae9ecb9"
       (reference "NT121") (unit 1) (value "K40_H") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/74815025-f542-488d-9e08-6391426b185a"
-      (reference "NT122") (unit 1) (value "JA20") (footprint "NetTie:NetTie-2_Front1.0mm")
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/00bcccf7-394a-4f9d-8c5d-992a9e9f8d60"
+      (reference "NT122") (unit 1) (value "JB20") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/5240f133-28d6-4ef7-b28a-0a6015a14b25"
       (reference "NT123") (unit 1) (value "JC5") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -1893,9 +1878,6 @@
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/9edcc057-39b5-4be4-8c20-533bf1083521"
       (reference "NT153") (unit 1) (value "RXH") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/e9283d28-0e51-48ab-a8e8-82c72f8c8a37"
-      (reference "NT154") (unit 1) (value "JC13") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/9598d428-56b1-4df9-be30-f3d9510f1796"
       (reference "NT155") (unit 1) (value "K2_CL") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
@@ -1904,9 +1886,6 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/0b3be1be-38db-492b-a97c-ab15f122ee0b"
       (reference "NT157") (unit 1) (value "RXL") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/a618c956-d340-4d2a-a9a4-1ac3539a2714"
-      (reference "NT158") (unit 1) (value "JC14") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/b5038902-dbcb-4c14-8ae4-ff6e0c36e024"
       (reference "NT159") (unit 1) (value "K32_H") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -1917,17 +1896,11 @@
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/3ce52164-8c2b-4c20-89ca-90019a7af739"
       (reference "NT161") (unit 1) (value "JA30") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/200448ed-c1f0-401a-9049-26bab557e629"
-      (reference "NT162") (unit 1) (value "JC15") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/833a8ea8-8f50-4e75-91f4-535db285ae0a"
       (reference "NT163") (unit 1) (value "K32_L") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/b01bf0d3-5dd0-4f46-9466-8a28b1c90fa2"
       (reference "NT164") (unit 1) (value "TXH") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/b0f123a9-21dc-48cf-9c57-585b5bb1f79e"
-      (reference "NT165") (unit 1) (value "JC16") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/71d969c8-fe88-46a9-a822-fece1090340b"
       (reference "NT166") (unit 1) (value "OCH1_L") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -1937,9 +1910,6 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/aa8fe623-48df-4e67-845c-ad210b5c5e3d"
       (reference "NT168") (unit 1) (value "TXL") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/47356ef1-b7c4-4efb-97da-1512e21b3d1a"
-      (reference "NT169") (unit 1) (value "JC17") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/6c8dd01d-956b-4cb9-aa36-c392048c5fe1"
       (reference "NT170") (unit 1) (value "OCH2_H") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -1962,9 +1932,6 @@
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/a177a04e-8734-4b01-ae1a-88a3ed337053"
       (reference "NT176") (unit 1) (value "JB2") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/ae4d7993-655f-47a4-8b0d-cd01f886bf71"
-      (reference "NT177") (unit 1) (value "JC19") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/c3394076-fa6c-4d4e-9be2-36423312c2de"
       (reference "NT178") (unit 1) (value "K11_L") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
@@ -1973,9 +1940,6 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/a7b03f98-7a23-4e38-a9c4-54dd3d936ec8"
       (reference "NT180") (unit 1) (value "JB3") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/f267b9d6-22bb-4588-9bc0-0ea4ff73cc75"
-      (reference "NT181") (unit 1) (value "JC20") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/ae283782-7fa1-4dfb-956e-48d17ef18b25"
       (reference "NT182") (unit 1) (value "K14_H") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -2796,20 +2760,8 @@
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/11d0e137-d156-4c84-958f-bb5e47ec51c6"
       (reference "NT454") (unit 1) (value "CTRL_3") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/b68f29c0-3141-4de7-ac8e-00e51fae6b44"
-      (reference "NT455") (unit 1) (value "ETH6") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/9f078609-cb4b-471a-894d-07e0c7e6e068"
       (reference "NT456") (unit 1) (value "CTRL_4") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/0045d049-8c7c-410a-9950-9df8186bb032"
-      (reference "NT457") (unit 1) (value "ETH3") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/500bf24a-0f36-4623-8745-f30c67308335"
-      (reference "NT458") (unit 1) (value "ETH2") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/f16199d1-4db5-48e7-a6f7-070bb8a0ae61"
-      (reference "NT459") (unit 1) (value "ETH1") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/a5315286-6bfc-43ce-ad0a-d31415a2eed1"
       (reference "NT460") (unit 1) (value "JTAG1") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -2908,7 +2860,7 @@
       (reference "NT491") (unit 1) (value "C_M4") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/3974fa5a-38e7-4e64-85b4-2e820c2fb576"
-      (reference "NT492") (unit 1) (value "C_VCC") (footprint "NetTie:NetTie-2_Front1.0mm")
+      (reference "NT492") (unit 1) (value "C_PWR") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/6556c432-05f2-429a-b095-03d347000406"
       (reference "NT493") (unit 1) (value "C_GND") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -3009,14 +2961,32 @@
     (path "/203eff38-5c86-45d7-8b0e-36659897a8dd/b6150434-98cb-43ec-9546-f529e5e78866"
       (reference "NT525") (unit 1) (value "NT46_R") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/55193726-317e-40af-a41a-426c4f2665c3"
-      (reference "NT526") (unit 1) (value "EA1") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/a739816b-c26a-41f0-b6a4-af8e06388273"
-      (reference "NT527") (unit 1) (value "EA2") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
     (path "/93992f79-5c5d-4858-8a7c-a8f76c6827a1/6f62624d-71bb-4461-9b58-5301d06e3ec4"
       (reference "NT528") (unit 1) (value "EL1") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/714de964-c7a0-4cb6-a7f2-3ea4bc2cfea9"
+      (reference "NT529") (unit 1) (value "JTAG2") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/c24e76cc-b7bc-40cd-bd49-202e69eac067"
+      (reference "NT530") (unit 1) (value "JTAG8") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/d0dd4ca0-5f79-4106-8120-e9eba5b2a41a"
+      (reference "NT531") (unit 1) (value "UBUS") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/8d7f94e0-37ab-408c-ba63-6104d9e97b8b"
+      (reference "NT532") (unit 1) (value "UGND") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/5995e2ba-4fb1-4a45-9542-5ad61e49246e"
+      (reference "NT533") (unit 1) (value "I_PWR") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/f0254554-19f0-453a-bf54-a12bfaa3f348"
+      (reference "NT534") (unit 1) (value "D_PWR") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/90eed819-7810-4a30-8d7d-f50386014a7a"
+      (reference "NT535") (unit 1) (value "I_PWR") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/a423701c-d9f6-46ec-a97d-794be02789f5"
+      (reference "NT536") (unit 1) (value "S_PWR") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/93992f79-5c5d-4858-8a7c-a8f76c6827a1/914764c3-8c4f-44e2-801b-746a70e36ff9"
       (reference "Q1") (unit 1) (value "2N2222") (footprint "Package_TO_SOT_THT:TO-92_Inline")
@@ -3034,40 +3004,40 @@
       (reference "Q24") (unit 1) (value "2N2222") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/d5eb1afe-6be7-415f-8517-0b838933b776"
-      (reference "Q26") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q26") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/770550ea-d975-41a5-a9a4-c48dd83c01ba"
-      (reference "Q27") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q27") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/3660a28a-770c-429e-948e-be3ea6776b82"
-      (reference "Q28") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q28") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/7565ba91-1758-45c8-bf51-e9e74c67f95a"
-      (reference "Q29") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q29") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/e093a635-8caf-4105-a1f0-a98d38d8e765"
-      (reference "Q30") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q30") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/a3564b1b-f474-4458-ad87-bc1719b71f46"
-      (reference "Q31") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q31") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/55f394ef-1bc9-4de8-9b93-25f42e1c6165"
-      (reference "Q32") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q32") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/0fa5c4fb-9754-41a4-9f48-eb3c866a0952"
-      (reference "Q33") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q33") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/38c8a2ad-19ff-444a-8937-7489f435d69e"
-      (reference "Q34") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q34") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/16f3bf61-ade7-4091-912e-d6dd0ac18747"
-      (reference "Q35") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q35") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/21f69cd3-4a73-4faf-bb9b-618984da83f9"
-      (reference "Q36") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q36") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/3818b292-98ce-45a9-a9bc-7642bbc36236"
-      (reference "Q37") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23W")
+      (reference "Q37") (unit 1) (value "BSS138") (footprint "Import_library:SOT-23W_SHORT")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/b55fa5fe-cf46-47c6-b4e4-e8de92f24a16"
       (reference "R1") (unit 1) (value "4.7K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
@@ -3077,6 +3047,9 @@
     )
     (path "/93992f79-5c5d-4858-8a7c-a8f76c6827a1/82117879-9b30-4275-9ef3-31069b2e7e4a"
       (reference "R3") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
+    )
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/bf549645-ccbe-47da-9424-5ff9843fc87c"
+      (reference "R4") (unit 1) (value "0") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/a12bd0e2-f434-4c13-b810-4e13644959fb"
       (reference "R10") (unit 1) (value "4.7K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
@@ -3202,7 +3175,7 @@
       (reference "R68") (unit 1) (value "220") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/93992f79-5c5d-4858-8a7c-a8f76c6827a1/0a6a0160-92f2-443b-b1c8-269322353605"
-      (reference "R69") (unit 1) (value "220") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
+      (reference "R69") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/93992f79-5c5d-4858-8a7c-a8f76c6827a1/30321cb2-690e-4074-9099-08fb57b798bd"
       (reference "R71") (unit 1) (value "0") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
@@ -3244,58 +3217,58 @@
       (reference "S1") (unit 1) (value "PB400EEQR1BLK") (footprint "SnapEDA Library:SW_PB400EEQR1BLK")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/ca283d13-3697-496b-ae99-c4558fb065df"
-      (reference "TP1") (unit 1) (value "NT10_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP1") (unit 1) (value "NT10_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/5bb64b95-4c21-4b37-8269-663d66ccfd4d"
-      (reference "TP2") (unit 1) (value "NT11_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP2") (unit 1) (value "NT11_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/fd815a56-8198-4fe5-b8e8-767cf18e6d91"
-      (reference "TP3") (unit 1) (value "NT12_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP3") (unit 1) (value "NT12_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/66df5e2c-8a17-4a48-8f6c-edad2b47621b"
-      (reference "TP4") (unit 1) (value "NT13_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP4") (unit 1) (value "NT13_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/e3f6e802-9a11-4fe4-9d38-b37067df5d67"
-      (reference "TP5") (unit 1) (value "NT10_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP5") (unit 1) (value "NT10_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/72ef97aa-bf8f-49dc-80ea-6731d5d956ba"
-      (reference "TP6") (unit 1) (value "NT11_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP6") (unit 1) (value "NT11_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/d879accb-6c8c-4c1f-8d67-a5c7faf4d565"
-      (reference "TP7") (unit 1) (value "NT12_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP7") (unit 1) (value "NT12_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/7d8dffa8-93c4-4dce-908d-819b9972c581"
-      (reference "TP8") (unit 1) (value "NT13_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP8") (unit 1) (value "NT13_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/f2962e03-ce99-4213-947a-467cd730c6f3"
-      (reference "TP9") (unit 1) (value "NT14_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP9") (unit 1) (value "NT14_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/f00fc91b-22ba-4ee1-bed8-3e759387db5c"
-      (reference "TP10") (unit 1) (value "NT15_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP10") (unit 1) (value "NT15_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/381cfa2f-a086-4392-8db8-c9e19d541a82"
-      (reference "TP11") (unit 1) (value "NT16_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP11") (unit 1) (value "NT16_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/195631a5-93d3-4e8f-908c-a1143b7636d9"
-      (reference "TP12") (unit 1) (value "NT17_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP12") (unit 1) (value "NT17_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/08a429d4-7971-4604-b3d9-167ea839d04f"
-      (reference "TP13") (unit 1) (value "NT14_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP13") (unit 1) (value "NT14_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/7fc59697-5b2e-454a-b91a-f090a95e2043"
-      (reference "TP14") (unit 1) (value "NT15_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP14") (unit 1) (value "NT15_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/5e5ac04f-0e88-4d24-baa5-58ed6c1249bc"
-      (reference "TP15") (unit 1) (value "NT16_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP15") (unit 1) (value "NT16_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/73de28db-7f5d-41a9-96eb-b702fef53540"
-      (reference "TP16") (unit 1) (value "NT17_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP16") (unit 1) (value "NT17_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/163f5da1-e413-4ecc-bd88-6c84e55a74ef"
-      (reference "TP17") (unit 1) (value "J_A5") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/b66a83f5-99aa-4077-b522-112bd2deabe4"
+      (reference "TP17") (unit 1) (value "J_A5") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/94b22c23-32d6-4309-8516-b39f4c64c9a9"
-      (reference "TP18") (unit 1) (value "J_A6") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/cfce3d96-e6a5-49f2-8d11-d73a4d1389b0"
+      (reference "TP18") (unit 1) (value "J_A8") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/5413d7d0-f56c-4de4-8efc-7043befa86ef"
       (reference "TP19") (unit 1) (value "K_B25") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
@@ -3304,13 +3277,13 @@
       (reference "TP20") (unit 1) (value "K_A25") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/43cdc4dd-e3fa-4059-9401-d6d54bdd77d4"
-      (reference "TP21") (unit 1) (value "J_A10") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP21") (unit 1) (value "J_B14") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/53631194-5e4f-4d3e-b9cb-55a4ad0e00ec"
-      (reference "TP22") (unit 1) (value "J_A23") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP22") (unit 1) (value "J_A14") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/b7a56551-8ba2-42a2-a201-6cc5341cd8ac"
-      (reference "TP23") (unit 1) (value "J_B6") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/53624ca1-d828-4296-83cf-523199f0c3c7"
+      (reference "TP23") (unit 1) (value "J_C3") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/3f04aa60-8b73-4ab2-8302-bacbc9d6ffbf"
       (reference "TP24") (unit 1) (value "K_C25") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
@@ -3319,322 +3292,307 @@
       (reference "TP25") (unit 1) (value "K_C30") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/496e8752-f2ab-4682-a808-62db4f044eb2"
-      (reference "TP26") (unit 1) (value "S2_VBUS") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP26") (unit 1) (value "S2_VBUS") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/4f8da9ec-282b-4b64-8608-e2042ac870ff"
-      (reference "TP27") (unit 1) (value "S1_VBUS") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP27") (unit 1) (value "S1_VBUS") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/67866fae-e006-4ac3-a382-5d9d190000d7"
-      (reference "TP28") (unit 1) (value "M2_3V3EN") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP28") (unit 1) (value "M2_3V3EN") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/33791be4-b69e-4cea-9699-52cab30a09c9"
-      (reference "TP29") (unit 1) (value "S1_3V3EN") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP29") (unit 1) (value "S1_3V3EN") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/e69dede0-4831-4207-858b-9e99d5e3c495"
-      (reference "TP30") (unit 1) (value "M2_3V3") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP30") (unit 1) (value "M2_3V3") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/83d14cf0-8687-4cab-ae5b-9296956dbb7d"
-      (reference "TP31") (unit 1) (value "S1_3V3") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP31") (unit 1) (value "S1_3V3") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/a55cc094-188a-4fe5-b4d2-5d1faa63ae52"
-      (reference "TP32") (unit 1) (value "M2_ADC_VREF") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP32") (unit 1) (value "M2_ADC_VREF") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/ebb623d9-7455-4a1a-b74e-aae0f31f3182"
-      (reference "TP33") (unit 1) (value "S1_ADC_VREF") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP33") (unit 1) (value "S1_ADC_VREF") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/0e2cb5b1-d1ac-4262-b545-1908a5cf5d95"
-      (reference "TP34") (unit 1) (value "M2_RUN") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP34") (unit 1) (value "M2_RUN") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/021e1d66-9cf7-4c98-8d77-7c95d9430e00"
-      (reference "TP35") (unit 1) (value "S1_SWDIO") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP35") (unit 1) (value "S1_SWDIO") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/6dc84459-58c3-4c91-b5ad-99a0dcc42054"
-      (reference "TP36") (unit 1) (value "S1_SWGND") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP36") (unit 1) (value "S1_SWGND") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/0c4dcb57-b7a1-4816-a2f2-3f82c6180105"
-      (reference "TP37") (unit 1) (value "M2_SWDIO") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP37") (unit 1) (value "M2_SWDIO") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/1ec12ad9-b6bd-446e-a089-6447d21bb0ad"
-      (reference "TP38") (unit 1) (value "S1_SWCLK") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP38") (unit 1) (value "S1_SWCLK") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/e2cd0bf3-54c8-450a-a9d4-661786b586cb"
-      (reference "TP39") (unit 1) (value "M2_SWGND") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP39") (unit 1) (value "M2_SWGND") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/4d26a77e-a056-4303-ab0e-771b826c981d"
-      (reference "TP40") (unit 1) (value "M2_SWCLK") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP40") (unit 1) (value "M2_SWCLK") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/14eda565-471c-4a61-8d0f-d5962a7ce0b7"
-      (reference "TP41") (unit 1) (value "S2_VBUS") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP41") (unit 1) (value "S2_VBUS") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/7c9cf4ac-5af2-4f79-a8ba-e08d023bfb2a"
-      (reference "TP42") (unit 1) (value "S3_VBUS") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP42") (unit 1) (value "S3_VBUS") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/7aaf6a0e-24f3-4763-9feb-2df291233ebb"
-      (reference "TP43") (unit 1) (value "S2_3V3EN") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP43") (unit 1) (value "S2_3V3EN") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/c499e704-7a64-4bc4-9136-951c9b7397ba"
-      (reference "TP44") (unit 1) (value "S3_3V3EN") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP44") (unit 1) (value "S3_3V3EN") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/6a743d17-5a81-491e-8632-b512db7ce533"
-      (reference "TP45") (unit 1) (value "S2_3V3") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP45") (unit 1) (value "S2_3V3") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/f783c983-4924-4a7e-ac13-8b024e97e907"
-      (reference "TP46") (unit 1) (value "S3_3V3") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP46") (unit 1) (value "S3_3V3") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/2b4d0c1e-4de2-4775-8741-84d13c6c346c"
-      (reference "TP47") (unit 1) (value "S2_ADC_VREF") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP47") (unit 1) (value "S2_ADC_VREF") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/7d94d473-a1c9-4bd5-986f-923fd7f5f0e1"
-      (reference "TP48") (unit 1) (value "S3_ADC_VREF") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP48") (unit 1) (value "S3_ADC_VREF") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/6fc5f04d-0f45-42d1-9f68-fc8edffc0308"
-      (reference "TP49") (unit 1) (value "S2_SWDIO") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP49") (unit 1) (value "S2_SWDIO") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/677c8e6d-0bee-4c14-837e-a0aaabbd91ab"
-      (reference "TP50") (unit 1) (value "S3_SWDIO") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP50") (unit 1) (value "S3_SWDIO") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/24e9a5db-4d02-4060-9388-023fdf22571f"
-      (reference "TP51") (unit 1) (value "S2_SWGND") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP51") (unit 1) (value "S2_SWGND") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/93b6e090-c62f-4f4b-98b0-67e99b45a5c9"
-      (reference "TP52") (unit 1) (value "S3_SWGND") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP52") (unit 1) (value "S3_SWGND") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/d0b0d06e-c01a-4950-8e0e-62edd77a2cef"
-      (reference "TP53") (unit 1) (value "S2_SWCLK") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP53") (unit 1) (value "S2_SWCLK") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/a006615d-32f1-4530-8f68-5161c2fe10b0"
-      (reference "TP54") (unit 1) (value "S3_SWCLK") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP54") (unit 1) (value "S3_SWCLK") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/2d513963-1969-409e-9379-6f118d689e4d"
-      (reference "TP55") (unit 1) (value "NT40_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP55") (unit 1) (value "NT40_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/b4618ce1-0688-4da2-91b6-cc51883d811d"
-      (reference "TP56") (unit 1) (value "NT41_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP56") (unit 1) (value "NT41_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/829438d9-b061-4a1e-9573-ecd0c3e72d41"
-      (reference "TP57") (unit 1) (value "NT42_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP57") (unit 1) (value "NT42_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/fa747b9f-e4f5-422f-8985-bf9375866137"
-      (reference "TP58") (unit 1) (value "NT43_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP58") (unit 1) (value "NT43_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/6f39b759-d596-4ed2-9ea6-a16c7ea44958"
-      (reference "TP59") (unit 1) (value "NT40_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP59") (unit 1) (value "NT40_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/aa5464d0-6bf3-4d99-9e1c-521da4fe342e"
-      (reference "TP60") (unit 1) (value "NT41_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP60") (unit 1) (value "NT41_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/ed8b21cc-5e9e-4dfd-9dee-f855fe01634c"
-      (reference "TP61") (unit 1) (value "NT42_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP61") (unit 1) (value "NT42_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/3fdd082d-8cca-478e-b436-72a18f8f0631"
-      (reference "TP62") (unit 1) (value "NT43_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP62") (unit 1) (value "NT43_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/730fcb0c-d375-4895-ba0b-b7dd8ba8ad18"
-      (reference "TP63") (unit 1) (value "NT44_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP63") (unit 1) (value "NT44_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/f173b124-e667-4465-ba36-25701ddf49cd"
-      (reference "TP64") (unit 1) (value "NT45_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP64") (unit 1) (value "NT45_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/a085928b-fb8b-4eca-afb0-72405de5ddc5"
-      (reference "TP65") (unit 1) (value "NT46_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP65") (unit 1) (value "NT46_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/288097e1-5b16-452a-a587-400b7c4ffcaf"
-      (reference "TP66") (unit 1) (value "NT47_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP66") (unit 1) (value "NT47_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/e12942c5-4474-4618-8e17-e743dadf0634"
-      (reference "TP67") (unit 1) (value "NT44_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP67") (unit 1) (value "NT44_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/47defd09-2673-4e21-950b-ff484e364473"
-      (reference "TP68") (unit 1) (value "NT45_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP68") (unit 1) (value "NT45_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/96186735-0e22-402c-9d96-dad529b3cf2e"
-      (reference "TP69") (unit 1) (value "NT46_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP69") (unit 1) (value "NT46_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/431409fb-6209-4c12-b1a6-3c7c76780c73"
-      (reference "TP70") (unit 1) (value "NT47_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP70") (unit 1) (value "NT47_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/641e5107-f9aa-4450-b80d-9f8970aa9396"
-      (reference "TP71") (unit 1) (value "RC_ADC0") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP71") (unit 1) (value "RC_ADC0") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/72ff927d-ae05-4610-b213-843ea1ad3df5/d507650c-6ada-4a5f-b549-5f640457a31c"
-      (reference "TP72") (unit 1) (value "RC_ADC1") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP72") (unit 1) (value "RC_ADC1") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/9ba8390e-863d-4a95-98b4-4c727e1c7787/7fe90f0c-4fb9-4734-a187-3b24cc0ec639"
-      (reference "TP73") (unit 1) (value "HRL_NO") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP73") (unit 1) (value "HRL_NO") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/9ba8390e-863d-4a95-98b4-4c727e1c7787/3cc85170-fcd4-4c65-a6e8-b6c652468b2b"
-      (reference "TP74") (unit 1) (value "HRL_C") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP74") (unit 1) (value "HRL_C") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/9ba8390e-863d-4a95-98b4-4c727e1c7787/6400b774-997f-4679-85fb-49744f335072"
-      (reference "TP75") (unit 1) (value "HRL_NC") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP75") (unit 1) (value "HRL_NC") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/d3e9efd1-49bb-40eb-bf1e-10bbd1127da6"
-      (reference "TP76") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP76") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/31469f38-094e-49fd-8d31-f1f1d2def3b6/086e0ec8-a8e0-4261-a888-fb2ebd6f5e00"
-      (reference "TP77") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP77") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/392f77a8-c641-4e67-81dd-4e262f043c41"
-      (reference "TP78") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP78") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/36659320-1f27-466f-9062-1e63a112e97a"
-      (reference "TP79") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP79") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/210fc9a1-c084-4a0d-93b0-d571c3427677"
-      (reference "TP80") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP80") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/db12f593-895b-4aaf-9e75-a32e681fc22e"
-      (reference "TP81") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP81") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/d98e3986-56f0-4bd2-99f1-2b2f09b24ca1"
-      (reference "TP82") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP82") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/3a833f7d-c224-43f0-96b5-48c77592931b"
-      (reference "TP83") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
-    )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/2210c0ec-f498-4d08-92cb-afb4f14d3cd8"
-      (reference "TP84") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
-    )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/7ae534b8-7192-454a-a0d8-218016d58634"
-      (reference "TP85") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
-    )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/f8cdd319-6be9-4fd3-a760-a20774236728"
-      (reference "TP86") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
-    )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/d0ee10c6-7815-4c00-ab27-097e468554ce"
-      (reference "TP87") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
-    )
-    (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/b5d298fe-9a6d-44ca-aacd-ab9b5387c98e"
-      (reference "TP88") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/91c825d7-eaee-45af-bb13-c6b2919ab885"
+      (reference "TP83") (unit 1) (value "J_A2") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/86e085cd-b4f8-410e-a0ac-9f18373085f2"
-      (reference "TP89") (unit 1) (value "NT20_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP89") (unit 1) (value "NT20_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/ab92924f-4884-4f80-a7fc-dcf5760c0fd9"
-      (reference "TP90") (unit 1) (value "NT21_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP90") (unit 1) (value "NT21_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/f812c7f3-03d7-4353-943b-9006b12ff396"
-      (reference "TP91") (unit 1) (value "NT22_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP91") (unit 1) (value "NT22_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/db228c5d-e5f0-4724-97a1-e8b8ee0810da"
-      (reference "TP92") (unit 1) (value "R2_OUT") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP92") (unit 1) (value "R2_OUT") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/9f7c2dfa-539c-4a7c-9245-f32e53871acb"
-      (reference "TP93") (unit 1) (value "NT23_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP93") (unit 1) (value "NT23_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/4235a1eb-d195-4acb-86d1-50520f099ff5"
-      (reference "TP94") (unit 1) (value "R1IN") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP94") (unit 1) (value "R1IN") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/590ad658-f9ee-4419-9c77-21bfdcd388ec"
-      (reference "TP95") (unit 1) (value "NT20_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP95") (unit 1) (value "NT20_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/e7192699-6b90-4901-b68e-163a0fe56650"
-      (reference "TP96") (unit 1) (value "NT21_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP96") (unit 1) (value "NT21_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/cfe1c99c-1af4-4ea1-8901-6e24120bae3b"
-      (reference "TP97") (unit 1) (value "T2OUT") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP97") (unit 1) (value "T2OUT") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/1b44b5c8-e052-4a16-82bf-053b861cf966"
-      (reference "TP98") (unit 1) (value "T2IN") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP98") (unit 1) (value "T2IN") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/143c6431-f0a2-45d0-ac01-488b65cdf4c2"
-      (reference "TP99") (unit 1) (value "NT22_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP99") (unit 1) (value "NT22_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/ece66ea1-bc41-49d9-a5b4-2a271295fd5a"
-      (reference "TP100") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP100") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/8a935eef-bbd0-4943-9610-0a48e4bdab2d"
-      (reference "TP101") (unit 1) (value "TestPoint_Small") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP101") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/7e19ab6a-eb14-44ae-8570-ffc863bd1e74"
-      (reference "TP102") (unit 1) (value "NT23_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP102") (unit 1) (value "NT23_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/0fd58b14-7412-4aaa-92fe-6c9287e14da2"
-      (reference "TP103") (unit 1) (value "NT24_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP103") (unit 1) (value "NT24_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/8b34fc0a-40a9-4701-b9b6-74b55a0a8d06"
-      (reference "TP104") (unit 1) (value "NT25_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP104") (unit 1) (value "NT25_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/3362e071-2f84-4822-817e-3ab683968ab4"
-      (reference "TP105") (unit 1) (value "NT26_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP105") (unit 1) (value "NT26_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/8dac853f-3b94-4f0a-abe4-d96594fd982b"
-      (reference "TP106") (unit 1) (value "NT27_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP106") (unit 1) (value "NT27_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/e5e99988-7e0b-4ad6-88df-ffc76578e8ca"
-      (reference "TP107") (unit 1) (value "NT24_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP107") (unit 1) (value "NT24_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/3268986f-66c6-4e38-862d-666f7b231c29"
-      (reference "TP108") (unit 1) (value "NT25_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP108") (unit 1) (value "NT25_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/44e8e50e-c540-4590-bcc2-c33ae56963a2"
-      (reference "TP109") (unit 1) (value "NT26_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP109") (unit 1) (value "NT26_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/291a55b4-130d-4a26-8fcf-9578ba23f9b1"
-      (reference "TP110") (unit 1) (value "NT27_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP110") (unit 1) (value "NT27_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/a8b3ab79-4d9d-45d1-b7b5-7de29057e785"
-      (reference "TP111") (unit 1) (value "NT30_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP111") (unit 1) (value "NT30_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/cfad9ce5-9c0a-4d71-8eb7-443296007ea6"
-      (reference "TP112") (unit 1) (value "NT31_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP112") (unit 1) (value "NT31_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/4d2b7679-b1ed-49de-a560-54e70c3684a0"
-      (reference "TP113") (unit 1) (value "NT32_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP113") (unit 1) (value "NT32_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/c144389b-7301-4c4b-a4ee-5bc0682f22dd"
-      (reference "TP114") (unit 1) (value "NT33_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP114") (unit 1) (value "NT33_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/ad44adde-75fe-4b2b-a637-b4c4ae548dce"
-      (reference "TP115") (unit 1) (value "NT30_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP115") (unit 1) (value "NT30_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/e0e98068-296b-40ce-b97b-190f75642de6"
-      (reference "TP116") (unit 1) (value "NT31_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP116") (unit 1) (value "NT31_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/cd67d2e1-c38d-4d5d-b03e-23336195f6a3"
-      (reference "TP117") (unit 1) (value "NT32_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP117") (unit 1) (value "NT32_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/f5778180-fae6-4cde-b0d6-277bd57080dd"
-      (reference "TP118") (unit 1) (value "NT33_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP118") (unit 1) (value "NT33_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/dcbb25da-a3b9-41ff-a0d7-03ca689c572d"
-      (reference "TP119") (unit 1) (value "NT34_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP119") (unit 1) (value "NT34_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/95f4bb04-74b9-47bb-af46-0c7e0683110a"
-      (reference "TP120") (unit 1) (value "NT35_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP120") (unit 1) (value "NT35_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/3d68a2ad-4a6b-4f7d-9b29-e0062b63f826"
-      (reference "TP121") (unit 1) (value "NT36_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP121") (unit 1) (value "NT36_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/aa98010f-9de2-413e-afef-e073d2c20e66"
-      (reference "TP122") (unit 1) (value "NT37_HH") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP122") (unit 1) (value "NT37_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/b6c2e5b1-e12f-4170-9efa-c7610ed968bf"
-      (reference "TP123") (unit 1) (value "NT34_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP123") (unit 1) (value "NT34_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/58802e4f-0563-4cf7-92d7-4673ee45f084"
-      (reference "TP124") (unit 1) (value "NT35_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP124") (unit 1) (value "NT35_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/dbae802d-f2a3-453a-8911-3f3dee115d70"
-      (reference "TP125") (unit 1) (value "NT36_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP125") (unit 1) (value "NT36_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/73b5224b-ba13-4dcf-9f81-3c5d5661d389/0a4f5a4d-c25a-4d28-b160-7d03d801c08a"
-      (reference "TP126") (unit 1) (value "NT37_LL") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP126") (unit 1) (value "NT37_LL") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/0978d7e5-4f25-4bb8-aaa6-4e3e80436c50"
       (reference "TP127") (unit 1) (value "K_B27") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/203eff38-5c86-45d7-8b0e-36659897a8dd/090944fc-0712-451c-a2ec-bfe2a85b9334"
-      (reference "TP128") (unit 1) (value "D1I7") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP128") (unit 1) (value "D1I7") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/203eff38-5c86-45d7-8b0e-36659897a8dd/d0540e46-314d-4806-be94-835b17a7117d"
-      (reference "TP129") (unit 1) (value "O1I7") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP129") (unit 1) (value "O1I7") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/203eff38-5c86-45d7-8b0e-36659897a8dd/7660b8c1-fae6-43b3-a2a6-b6e3a6f02ac3"
-      (reference "TP130") (unit 1) (value "D2I7") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP130") (unit 1) (value "D2I7") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/203eff38-5c86-45d7-8b0e-36659897a8dd/5009f42e-0f39-4d49-ad18-d6c8a533c2fa"
-      (reference "TP131") (unit 1) (value "O2I7") (footprint "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork")
+      (reference "TP131") (unit 1) (value "O2I7") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/76bb269b-7dda-47df-b3a9-aee94ad17ca4/d24e365b-ab25-4a87-a808-77d49cad87d1"
       (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")

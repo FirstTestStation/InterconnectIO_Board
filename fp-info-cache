@@ -1,4 +1,4 @@
-19855058036854952
+19860150353039076
 4pin_5
 1146770000
 1146770000-1
@@ -41,6 +41,13 @@ audio belton reverb
 0
 7
 7
+BNC
+TE_1-1337542-0
+
+
+0
+4
+4
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52240,6 +52247,13 @@ heatsink
 0
 2
 1
+Import_library
+SOT-23W_SHORT
+SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
+SOT-23W
+0
+3
+3
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -71550,6 +71564,13 @@ Package_TO_SOT_SMD
 SOT-23W_Handsoldering
 SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
 SOT-23W for handsoldering
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-23W_SHORT
+SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
+SOT-23W
 0
 3
 3

@@ -346,6 +346,7 @@
   )
 
 
+
   (wire (pts (xy 40.64 123.19) (xy 46.99 123.19))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 01ad5c29-a94a-4eb1-bd1e-81abb7b7d8c9)
@@ -1928,7 +1929,7 @@
     (property "Value" "D1I7" (id 1) (at 118.11 45.72 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork" (id 2) (at 129.54 40.64 0)
+    (property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm" (id 2) (at 129.54 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 129.54 40.64 0)
@@ -2305,7 +2306,7 @@
     (property "Value" "O2I7" (id 1) (at 187.96 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork" (id 2) (at 176.53 92.71 0)
+    (property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm" (id 2) (at 176.53 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 176.53 92.71 0)
@@ -2429,7 +2430,7 @@
     (property "Value" "D2I7" (id 1) (at 120.65 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork" (id 2) (at 132.08 82.55 0)
+    (property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm" (id 2) (at 132.08 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 132.08 82.55 0)
@@ -2675,7 +2676,7 @@
     (property "Value" "O1I7" (id 1) (at 186.69 45.72 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork" (id 2) (at 175.26 50.8 0)
+    (property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm" (id 2) (at 175.26 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 175.26 50.8 0)

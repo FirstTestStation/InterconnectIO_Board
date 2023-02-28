@@ -4,4 +4,6 @@
   (lib (name "4pins_3")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/4pin_3.81mm/footprints.pretty")(options "")(descr ""))
   (lib (name "6pin_3")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/6pin_3.81mm")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/TXS0108/footprints.pretty")(options "")(descr ""))
+  (lib (name "Import_library")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library")(options "")(descr ""))
+  (lib (name "BNC")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/BNC")(options "")(descr ""))
 )
