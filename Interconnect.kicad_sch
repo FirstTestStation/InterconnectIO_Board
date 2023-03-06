@@ -1120,16 +1120,16 @@
       (reference "C8") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/ca1e0bdb-3bcf-42e8-9653-3def3b74bfe3"
-      (reference "C9") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C9") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/9604910f-f818-46d1-b985-338a80beed39"
-      (reference "C10") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C10") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/26dee0a6-1b14-4718-9d6a-6d693f4b6efc"
-      (reference "C11") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C11") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/aada76e4-0d7c-47c4-9c7e-35d8df0791ca"
-      (reference "C12") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C12") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/1bd87e8a-aa22-4d87-aea7-1248bb6d8eb7"
       (reference "C13") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -3464,6 +3464,12 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/91c825d7-eaee-45af-bb13-c6b2919ab885"
       (reference "TP83") (unit 1) (value "J_A2") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
+    )
+    (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/53033f00-1cb2-4c68-a1c3-23d8c1c425c2"
+      (reference "TP84") (unit 1) (value "RTS") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
+    )
+    (path "/ea2f2d41-32b8-4a74-aba5-0793e5b460fb/97c19e08-f0ec-4f8d-b649-c4df24a26cf6"
+      (reference "TP85") (unit 1) (value "CTS") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/74aa1dd2-e4cc-4434-a405-8d61b237ec6a/86e085cd-b4f8-410e-a0ac-9f18373085f2"
       (reference "TP89") (unit 1) (value "NT20_HH") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
