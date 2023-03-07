@@ -732,6 +732,9 @@
     (path "/553586c6-ff48-47b0-91d7-58658552f7f7/670baa7e-feb3-43e8-bb7a-2a8bac6275aa"
       (reference "#PWR020") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/36d3b5dc-6380-4f09-9fd2-5961017070ba"
+      (reference "#PWR021") (unit 1) (value "GND") (footprint "")
+    )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/d6c70f4d-5840-4eb1-b073-60271a5d1a7c"
       (reference "#PWR024") (unit 1) (value "GND") (footprint "")
     )
@@ -1290,11 +1293,11 @@
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/d5542fbf-352b-41e9-a7bd-974b285b7dc8"
       (reference "J31") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/8e56a0b1-3aab-4b95-9dff-6598d047ad13"
-      (reference "J32") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/229b82f0-5048-47d6-8bc8-0bcee42eb4bc"
+      (reference "J32") (unit 1) (value "8 x 2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
     )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/fe9cc67e-b317-498a-b21e-72e9b1d41bcc"
-      (reference "J33") (unit 1) (value "6x2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/d7e48ff3-147e-4566-8af0-3deacbf76535"
+      (reference "J33") (unit 1) (value "8 x 2.54mm") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
     )
     (path "/dc9823c9-958f-4ebb-96c5-159cad0b2341/465ac724-65d1-4967-b6e4-103cf652fd5c"
       (reference "K1") (unit 1) (value "TQ2-5") (footprint "Relay_THT:Relay_DPDT_FRT5")
@@ -1878,6 +1881,9 @@
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/9edcc057-39b5-4be4-8c20-533bf1083521"
       (reference "NT153") (unit 1) (value "RXH") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/dad7b360-ddfd-40cd-8314-ae3feb040940"
+      (reference "NT154") (unit 1) (value "C_SCL") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/9598d428-56b1-4df9-be30-f3d9510f1796"
       (reference "NT155") (unit 1) (value "K2_CL") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
@@ -1886,6 +1892,9 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/0b3be1be-38db-492b-a97c-ab15f122ee0b"
       (reference "NT157") (unit 1) (value "RXL") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/593375c4-29c3-4b3c-832c-65d0fccc478a"
+      (reference "NT158") (unit 1) (value "C_M1") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/b5038902-dbcb-4c14-8ae4-ff6e0c36e024"
       (reference "NT159") (unit 1) (value "K32_H") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -1896,11 +1905,17 @@
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/3ce52164-8c2b-4c20-89ca-90019a7af739"
       (reference "NT161") (unit 1) (value "JA30") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/9c425b3b-a380-412e-8e10-e7b5c5d2b46d"
+      (reference "NT162") (unit 1) (value "C_SDA") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/833a8ea8-8f50-4e75-91f4-535db285ae0a"
       (reference "NT163") (unit 1) (value "K32_L") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/b01bf0d3-5dd0-4f46-9466-8a28b1c90fa2"
       (reference "NT164") (unit 1) (value "TXH") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/44ffed61-e7ba-4f40-8dca-a624bbd5d3f3"
+      (reference "NT165") (unit 1) (value "C_M2") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/71d969c8-fe88-46a9-a822-fece1090340b"
       (reference "NT166") (unit 1) (value "OCH1_L") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -1910,6 +1925,9 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/aa8fe623-48df-4e67-845c-ad210b5c5e3d"
       (reference "NT168") (unit 1) (value "TXL") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/d2555811-9163-461e-a449-7a80d7927b19"
+      (reference "NT169") (unit 1) (value "C_M3") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/6c8dd01d-956b-4cb9-aa36-c392048c5fe1"
       (reference "NT170") (unit 1) (value "OCH2_H") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -1932,6 +1950,9 @@
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/a177a04e-8734-4b01-ae1a-88a3ed337053"
       (reference "NT176") (unit 1) (value "JB2") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/d730f7eb-3033-451c-ace1-674c79453f5a"
+      (reference "NT177") (unit 1) (value "C_M4") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/c3394076-fa6c-4d4e-9be2-36423312c2de"
       (reference "NT178") (unit 1) (value "K11_L") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
@@ -1940,6 +1961,9 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/a7b03f98-7a23-4e38-a9c4-54dd3d936ec8"
       (reference "NT180") (unit 1) (value "JB3") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/51a49068-1ace-45e7-a415-1098392bf621"
+      (reference "NT181") (unit 1) (value "C_MD5") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/ae283782-7fa1-4dfb-956e-48d17ef18b25"
       (reference "NT182") (unit 1) (value "K14_H") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -2760,6 +2784,9 @@
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/11d0e137-d156-4c84-958f-bb5e47ec51c6"
       (reference "NT454") (unit 1) (value "CTRL_3") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
+    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/58ca9cd1-a4de-4771-b72e-f2f2f3c2983d"
+      (reference "NT455") (unit 1) (value "C_MD6") (footprint "NetTie:NetTie-2_Front1.0mm")
+    )
     (path "/67a5075c-0cbf-4265-9be2-21c0799c588b/9f078609-cb4b-471a-894d-07e0c7e6e068"
       (reference "NT456") (unit 1) (value "CTRL_4") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
@@ -2824,10 +2851,7 @@
       (reference "NT479") (unit 1) (value "EE_SDA") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/422dafd9-f7d9-44f9-be31-4c68e2eba5e4"
-      (reference "NT480") (unit 1) (value "C_SDA") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/24100200-d4c3-44c2-8630-049d03329c18"
-      (reference "NT481") (unit 1) (value "C_M1") (footprint "NetTie:NetTie-2_Front1.0mm")
+      (reference "NT480") (unit 1) (value "CL_3V3") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/61f5a7d0-e175-4310-93c3-5d1fda6b7f3c"
       (reference "NT482") (unit 1) (value "EE_A1") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -2835,35 +2859,20 @@
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/ec05ee3b-4368-46bd-98c8-09f8c005ec34"
       (reference "NT483") (unit 1) (value "EE_SCL") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/683a4aa1-5bec-434b-ae7b-cd50945a5f78"
-      (reference "NT484") (unit 1) (value "C_SCL") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/14339121-e1cb-4772-a414-a9da89c14e68"
-      (reference "NT485") (unit 1) (value "C_M2") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/f9570ec9-f248-4340-a021-2adf9d7cd9d9"
       (reference "NT486") (unit 1) (value "EE_A2") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/b44b7fe8-4da5-40b9-b869-51e87772b8ef"
       (reference "NT487") (unit 1) (value "EE_A2") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/b0356f6b-bc4f-417b-9483-fc51dfaa39ce"
-      (reference "NT488") (unit 1) (value "C_3") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/8cc3d12f-85ee-4c6b-b0b9-07154c17fbcb"
-      (reference "NT489") (unit 1) (value "C_M3") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/8f6b7272-6b47-4a41-8764-67541c0be14b"
       (reference "NT490") (unit 1) (value "C_4") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
-    (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/56762d43-8301-4aa9-b2b7-0fdc163f91a0"
-      (reference "NT491") (unit 1) (value "C_M4") (footprint "NetTie:NetTie-2_Front1.0mm")
-    )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/3974fa5a-38e7-4e64-85b4-2e820c2fb576"
-      (reference "NT492") (unit 1) (value "C_PWR") (footprint "NetTie:NetTie-2_Front1.0mm")
+      (reference "NT492") (unit 1) (value "C_5") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/2c0aa934-43a3-4dd3-9fc6-161c27a2b201/6556c432-05f2-429a-b095-03d347000406"
-      (reference "NT493") (unit 1) (value "C_GND") (footprint "NetTie:NetTie-2_Front1.0mm")
+      (reference "NT493") (unit 1) (value "C_DP") (footprint "NetTie:NetTie-2_Front1.0mm")
     )
     (path "/203eff38-5c86-45d7-8b0e-36659897a8dd/3a448a5c-4f93-416c-8864-0fd3834b2f3a"
       (reference "NT494") (unit 1) (value "NT15_R") (footprint "NetTie:NetTie-2_Front1.0mm")
@@ -3275,12 +3284,6 @@
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/773288c1-5dfb-4654-9f4e-7b3c4402aa5a"
       (reference "TP20") (unit 1) (value "K_A25") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/43cdc4dd-e3fa-4059-9401-d6d54bdd77d4"
-      (reference "TP21") (unit 1) (value "J_B14") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
-    )
-    (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/53631194-5e4f-4d3e-b9cb-55a4ad0e00ec"
-      (reference "TP22") (unit 1) (value "J_A14") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/b6843bf0-4fd5-4c29-a6cf-c3ff6e87fa06/53624ca1-d828-4296-83cf-523199f0c3c7"
       (reference "TP23") (unit 1) (value "J_C3") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
