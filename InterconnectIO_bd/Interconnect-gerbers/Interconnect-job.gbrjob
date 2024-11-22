@@ -5,20 +5,20 @@
       "Application": "Pcbnew",
       "Version": "7.0.5"
     },
-    "CreationDate": "2023-08-08T10:19:50-04:00"
+    "CreationDate": "2024-10-27T20:42:58-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Interconnect",
       "GUID": "496e7465-7263-46f6-9e6e-6563742e6b69",
-      "Revision": "1.0"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 406.56,
       "Y": 193.66
     },
     "LayerNumber": 4,
-    "BoardThickness": 4.69,
+    "BoardThickness": 1.6,
     "Finish": "None"
   },
   "DesignRules": [
@@ -63,6 +63,16 @@
       "FilePolarity": "Positive"
     },
     {
+      "Path": "Interconnect-F_Adhesive.gta",
+      "FileFunction": "Glue,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Interconnect-B_Adhesive.gba",
+      "FileFunction": "Glue,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "Interconnect-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
@@ -93,8 +103,28 @@
       "FilePolarity": "Negative"
     },
     {
+      "Path": "Interconnect-User_Drawings.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Interconnect-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "Interconnect-Edge_Cuts.gm1",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Interconnect-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Interconnect-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
@@ -120,7 +150,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 0.1,
       "Material": "FR4",
       "Name": "F.Cu/PWR",
       "Notes": "Type: dielectric layer 1 (from F.Cu to PWR)"
@@ -132,7 +162,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 1.24,
       "Material": "FR4",
       "Name": "PWR/GND",
       "Notes": "Type: dielectric layer 2 (from PWR to GND)"
@@ -144,7 +174,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 0.1,
       "Material": "FR4",
       "Name": "GND/B.Cu",
       "Notes": "Type: dielectric layer 3 (from GND to B.Cu)"
