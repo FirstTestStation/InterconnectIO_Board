@@ -4914,7 +4914,7 @@
     (property "Value" "LM4040LP-3" (at 142.24 73.66 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (at 144.78 72.39 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide" (at 144.78 72.39 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf" (at 139.7 72.39 0)
