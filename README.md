@@ -21,13 +21,13 @@ Many resources, such as **bank relays**, **power relays**, **Digital IO** and **
 - **Cost-Effective Controller**: The low-cost and powerful **Raspberry Pi Pico Microcontroller** is used to interface with the user and control internal electronics.
 
 ## Assembly Instructions
-   Follow the document [Assembly_Instructions](InterconnectIO_bd/pdf/Interconnect_IO_Assembly_Instruction.pdf) to complete the assembly of the board.
+   Follow the document [Assembly_Instructions](InterconnectIO_bd/pdf/InterconnectIO_Assembly_Instruction_680-1000.pdf) to complete the assembly of the board.
 
 ## Design Files
 - [Gerber Files](InterconnectIO_bd/gerber_to_order/) – Gerber files for PCB fabrication, send zip file to manufacturer (JLCPCB is the one used by the project).
-- [Assembly Schematic](InterconnectIO_bd/pdf/Interconnect_IO_Assembly_diagram.pdf) – Parts and value to help hand assemblies of components.
-- [Electrical Schematic](InterconnectIO_bd/pdf/interconnect_IO_schematic.pdf) – Review the full electrical schematic diagram for reference.
-- [Bill of Materials (BOM)](InterconnectIO_bd/pdf/BOM_Interconnect_IO_Board_600-1000.pdf) – List of components required for assembly.
+- [Assembly Schematic](InterconnectIO_bd/pdf/InterconnectIO_Assembly_diagram_670-1000.pdf) – Parts and value to help hand assemblies of components.
+- [Electrical Schematic](InterconnectIO_bd/pdf/interconnectIO_schematic_640-1000.pdf) – Review the full electrical schematic diagram for reference.
+- [Bill of Materials (BOM)](InterconnectIO_bd/pdf/BOM_InterconnectIO_Board_600-1000.pdf) – List of components required for assembly.
 
 ---
 
