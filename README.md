@@ -3,7 +3,7 @@
 
 
 ## Project Overview
-This project involves the assembly of a custom **Interconnect IO Circuit Board (PCB)** designed to be part of the **First Test Station** project ([FTS](https://dlock8.github.io/FTS_Website/)). The primary goal of the Interconnect IO board is to provide an interface between instruments and the Unit Under Test (U.U.T).
+This project involves the assembly of a custom **Interconnect IO Circuit Board (PCB)** designed to be part of the **First TestStation** project ([FTS](https://dlock8.github.io/FTS_Website/)). The primary goal of the Interconnect IO board is to provide an interface between instruments and the Unit Under Test (U.U.T).
 
 Many resources, such as **bank relays**, **power relays**, **Digital IO** and **communication interfaces**, have been integrated into the Interconnect IO board. These resources reduce the need for external instruments and maximize the versatility of the interface, allowing for efficient testing and broader functionality.
 
