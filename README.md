@@ -3,7 +3,7 @@
 
 
 ## Project Overview
-This project involves the assembly of a custom **Interconnect IO Circuit Board (PCB)** designed to be part of the **First TestStation** project ([FTS](https://dlock8.github.io/FTS_Website/)). The primary goal of the Interconnect IO board is to provide an interface between instruments and the Unit Under Test (U.U.T).
+This project involves the assembly of a custom **Interconnect IO Circuit Board (PCB)** designed to be part of the **First TestStation** project ([FTS](https://FirstTestSTation.github.io/FTS_Website/)). The primary goal of the Interconnect IO board is to provide an interface between instruments and the Unit Under Test (U.U.T).
 
 Many resources, such as **bank relays**, **power relays**, **Digital IO** and **communication interfaces**, have been integrated into the Interconnect IO board. These resources reduce the need for external instruments and maximize the versatility of the interface, allowing for efficient testing and broader functionality.
 
@@ -24,16 +24,16 @@ Many resources, such as **bank relays**, **power relays**, **Digital IO** and **
    Follow the document [Assembly_Instructions](InterconnectIO_bd/pdf/InterconnectIO_Assembly_Instruction_680-1000.pdf) to complete the assembly of the board.
 
 ## Design Files
-- [Gerber Files](InterconnectIO_bd/gerber_to_order/) – Gerber files for PCB fabrication, send zip file to manufacturer (JLCPCB is the one used by the project).
+- [Gerber Files](InterconnectIO_bd\gerber_to_order/) – Gerber files for PCB fabrication, send zip file to manufacturer (JLCPCB is the one used by the project).
 - [Assembly Schematic](InterconnectIO_bd/pdf/InterconnectIO_Assembly_diagram_670-1000.pdf) – Parts and value to help hand assemblies of components.
 - [Electrical Schematic](InterconnectIO_bd/pdf/interconnectIO_schematic_640-1000.pdf) – Review the full electrical schematic diagram for reference.
-- [Bill of Materials (BOM)](InterconnectIO_bd/pdf/BOM_InterconnectIO_Board_600-1000.pdf) – List of components required for assembly.
+- [Bill of Materials (BOM)](InterconnectIO_bd/pdf/BOM_InterconnectIO_Board_610-1000.pdf) – List of components required for assembly.
 
 ---
 
 ## License
 
-This project is licensed under the terms of the [CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W 2.0)](https://ohwr.org/cern_ohl_w_v2.txt).
+This project is licensed under the terms of the [CERN Open Hardware License Version 2 - Weakly Reciprocal (CERN-OHL-W 2.0)](https://ohwr.org/cern_ohl_w_v2.txt).
 
 See the [LICENSE](./LICENSE) file in this repository for more details.
 
